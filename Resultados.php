@@ -119,31 +119,31 @@
         </tr>
         <tr>
             <td>Total Hombres</td>
-            <td><?php echo $contHombres; ?></td>
+            <td><?php echo $numHombres; ?></td>
         </tr>
         <tr>
             <td>Total Mujeres</td>
-            <td><?php echo $contMujeres; ?></td>
+            <td><?php echo $numMujeres; ?></td>
         </tr>
         <tr>
             <td>Total Casados</td>
-            <td><?php echo $contCasados; ?></td>
+            <td><?php echo $numCasados; ?></td>
         </tr>
         <tr>
             <td>Total Separados</td>
-            <td><?php echo $contSeparados; ?></td>
+            <td><?php echo $numSeparados; ?></td>
         </tr>
         <tr>
             <td>Total Unión Libre</td>
-            <td><?php echo $contUnionLibre; ?></td>
+            <td><?php echo $numUnionLibre; ?></td>
         </tr>
         <tr>
             <td>Total Solteros</td>
-            <td><?php echo $contSolteros; ?></td>
+            <td><?php echo $numSolteros; ?></td>
         </tr>
         <tr>
             <td>Total Viudos</td>
-            <td><?php echo $contViudos; ?></td>
+            <td><?php echo $numViudos; ?></td>
         </tr>
     </table>
 
